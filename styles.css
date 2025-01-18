@@ -25,13 +25,13 @@ body {
 .card {
 	background-color: transparent;
 	border: none;
-	color: #14663a;
+	color: #161b51;
 }
 
 .btn {
 	background-color: transparent;
-		border: 2px solid #14663a;
-		color: #465548;
+		border: 2px solid #161b51;
+		color: #161b51;
 		padding: 10px 20px;
 		font-size: 16px;
 	font-size: 13px;
@@ -39,7 +39,7 @@ body {
 }
 
 .btn:hover {
-	background-color: #465548;
+	background-color: #161b51;
 	color: white;
 	cursor: pointer;
 }
@@ -49,11 +49,11 @@ body {
 }
 
 .footer-title {
-	color: #14663a !important;
+	color: #161b51 !important;
 	font-size: 13px;
 }
 
 .text-green {
-	color: #14663a;
+	color: #161b51;
 	font-size: 10px;
 }
